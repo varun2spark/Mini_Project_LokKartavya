@@ -129,6 +129,11 @@ body {
   background-color: var(--border);
 }
 
+.btn:focus {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
 /* Hero Section */
 .hero {
   text-align: center;
