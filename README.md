@@ -9,6 +9,3 @@ A simple student-project style web application to track the performance and budg
 - About Us
 - Feedback Form
 - Basic Login / Registration Pages
-
-## Running Locally
-Simply open `index.html` in any web browser. No server is required.
